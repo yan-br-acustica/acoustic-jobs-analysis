@@ -1,0 +1,12 @@
+# 5 PHD
+The field of automatic detection and classification of acoustic scenes and sound events has been gaining importance in the last few years, and has consolidated through the DCASE workshops and the dedicated special tracks in conferences such as ICASSP. The objective of the offered PhD position is to work on this research field, particularly in the creation of machine learning models for the automatic detection of sound events, with contributions both at the dataset creation and training levels, and on aspects related to the deployment and evaluation of the models in real-world scenarios (e.g. in the form of new features for our  [Freesound](https://freesound.org/)  website).
+This PhD thesis will be done within the  [Audio Signal Processing Lab](https://www.upf.edu/web/mtg/audio-signal-processing-lab)  of the MTG, and following our  [recent efforts on sound event classification tasks](https://www.upf.edu/web/mtg/publications-ppc/-/ppc/46UYVsw4xIxf) , the publication of the  [FSD50k dataset](https://zenodo.org/record/4060432#.YgD0_i1Q1B0) , the  [Freesound Annotator](https://annotator.freesound.org/)  platform, and, more generally, research related to the Freesound website.
+What we are looking for:
+* A strong background in Computer Science (mainly Audio Signal Processing, Statistical Analysis, and Machine Learning).
+* A completed (by Sept. 2022) master’s degree in computer science or a related field (preferably with a thesis that documents your existing expertise in music technology and/or machine learning).
+* Someone passionate about research and sound that shares our  [values](https://www.upf.edu/web/mtg/values) .
+The successful candidate will enroll in the  [PhD program](https://www.upf.edu/web/etic/doctorat)  of the Department of Information and Communication Technologies of the UPF. Practical and administrative information about the PhD program, including admission requirements, are available  [here](https://www.upf.edu/web/doctorats) . 
+Interested people should send a CV, a motivation letter, and a first draft of a thesis proposal detailing a possible research plan, to  [mtg-info@upf.edu](mailto:mtg-info@upf.edu) . For any further information you can contact  [Frederic Font](mailto:frederic.font@upf.edu)  directly.
+
+
+#yan/vagas_post_dataset

@@ -1,0 +1,8 @@
+# 9 Doutorado Finlândia
+Ultrasonic superhearing in hearables and as assistive technologies for visually impaired
+A paid PhD student position is opened in Prof Ville Pulkki’s Communication acoustics group. The work would start as an industrial project developing ultrasonic spatial super-hearing techniques [1] for different applications. Proof-of-concept devices would be built in the project, consisting of microphone arrays, electronics for connecting the microphones to miniature computers, and software running on standard operating system. The devices would be built based on the devices built earlier in the laboratory. Spatial super-hearing technologies would be developed for the devices, targeting applications for listening the ultrasound sources in the environments, such as bats or pets, and for applications targeting to give human echolocation capability of localizing obstacles in surrounding environment. 
+The student should have knowledge acoustics and audio technology in general.  As the topic matter is quite broad, several researchers with different expertises are planned to work on the project. Pls report any experience you have of MEMS microphones, design of digital boards, digital signal processing, buidling audio devices, acoustical measurements, programming audio applications, and running listening tests. 
+Pls send your free-form applications with your CV and transcript of study records to address Ville.Pulkki@aalto.fi by February 9th 2022. 
+
+
+#yan/vagas_post_dataset
